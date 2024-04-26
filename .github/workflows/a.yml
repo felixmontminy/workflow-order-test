@@ -1,7 +1,8 @@
 name: AAAAAA
 on:
     push
-
 jobs:
     empty:
         runs-on: ubuntu-latest
+        steps:
+            - run: echo Hello World
