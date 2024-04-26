@@ -1,4 +1,4 @@
-name: AAAAAA
+name: ' AAAAAA'
 on:
     push
 jobs:
