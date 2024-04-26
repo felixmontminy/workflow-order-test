@@ -1,0 +1,7 @@
+name: c
+on:
+    push
+
+jobs:
+    empty:
+        runs-on: ubuntu-latest
