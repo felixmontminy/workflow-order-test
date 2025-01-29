@@ -1,0 +1,12 @@
+diff --git a/test1.json b/test2.json
+index ee44715..cb29564 100644
+--- a/test1.json
++++ b/test2.json
+@@ -1,5 +1,5 @@
+ {
+-    "name": "John",
++    "name": "Bob",
+     "age": 30,
+-    "car": null
++    "car": "Honda Civic"
+ }
